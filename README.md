@@ -32,7 +32,7 @@ International Journal of Social Science, Education, Communication and Economics,
 
 Prastika, F. Y., & Yusuf, M. (2025; issue label: Vol. 1 No. 4 (2023)).
 
-Perfect Education Fairy, 1(4),140-152.
+Perfect Education Fairy, 1(4), 140-152.
 
 - [Read the publication record](publications/earnings-per-share-stock-price.md)
 - [View DOI record](https://doi.org/10.56442/pef.v1i3.439)
