@@ -25,12 +25,14 @@ DOI: [10.56442/pef.v1i3.439](https://doi.org/10.56442/pef.v1i3.439)
 
 [Read publication record](earnings-per-share-stock-price.md)
 
-## 3. The Implementation of Credit Scoring in Order to Analyze the Importance of Non Performing Loans on Peer To Peer Lending towards Credit Distribution for Micro, Small and Medium Enterprises
+## 3. The Implementation of Credit Scoring in Order to Analyze the Importance of Non-Performing Loans on Peer-to-Peer Lending towards Credit Distribution for Micro, Small and Medium Enterprises
 
 Authors: Hedwigis Esti Riwayati, Aviliani, and Frida Yuniar Prastika
 Year: 2022
 Journal: International Business and Accounting Research Journal
 Volume/Issue: 6(2)
+Pages: 137–147
+DOI: [10.35474/ibarj.v6i2.248](https://doi.org/10.35474/ibarj.v6i2.248)
 
 [Read publication record](credit-scoring-p2p-lending-msmes.md)
 
