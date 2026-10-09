@@ -15,8 +15,9 @@ DOI: [10.54443/sj.v3i5.431](https://doi.org/10.54443/sj.v3i5.431)
 
 ## 2. The Effect of Earning Per Share and Price Earning Ratio on Stock Price with Dividend Policy as an Intervening Variable
 
-Authors: Frida Yuniar Prastika and M. Yusuf
-Year: 2023
+Authors: Frida Yuniar Prastika and Muhammad Yusuf
+Year: 2025 (as cited by the publisher)
+Issue label: Vo. 1 No. 4 (2023)
 Journal: Perfect Education Fairy
 Volume/Issue: 1(4)
 ISSN: 3024-8183
