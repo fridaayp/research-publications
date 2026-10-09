@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Frida Yuniar Prastika — Research Publications"
+type: software
+authors:
+
+- family-names: Prastika
+  given-names: Frida Yuniar
+  repository-code: "https://github.com/fridaayp/research-publications"
+  url: "https://github.com/fridaayp/research-publications"
+  abstract: >-
+  An academic portfolio documenting scholarly publications and research interests
+  in behavioral finance, corporate governance, managerial decision-making,
+  credit risk, and emerging Asian markets.
+  keywords:
+- behavioral finance
+- corporate governance
+- managerial overconfidence
+- credit risk
+- emerging Asian markets
