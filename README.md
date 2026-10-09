@@ -20,47 +20,32 @@ My research interests center on how managerial characteristics, governance mecha
 
 ### 1. The Effect of Managerial Overconfidence on Firm Performance in Emerging Market Asia
 
-Authors: Frida Yuniar Prastika, A. Warokka, and G. N. Ahmad
+Prastika, F. Y., Warokka, A., & Ahmad, G. N. (2024).
 
-Year: 2024
+International Journal of Social Science, Education, Communication and Economics, 3(5), 1437–1450.
 
-Journal: International Journal of Social Science, Education, Communication, and Economics, 3(5), 415–428.
-
-Overview
-
-This study examines the relationship between managerial overconfidence and firm performance in emerging Asian markets, with attention to corporate governance and strategic decision-making.
-
-Keywords: Managerial overconfidence · Firm performance · Corporate governance · Emerging markets · Strategic risk-taking
+- "Read the publication record" (publications/managerial-overconfidence-firm-performance.md)
+- "View the publisher's article" (https://sinomicsjournal.com/index.php/SJ/article/view/431)
+- "DOI" (https://doi.org/10.54443/sj.v3i5.431)
 
 ### 2. The Effect of Earning Per Share and Price Earning Ratio on Stock Price with Dividend Policy as an Intervening Variable
 
-Authors: Frida Yuniar Prastika and M. Yusuf
+Prastika, F. Y., & Yusuf, M. (2023).
 
-Year: 2023
+Perfect Education Fairy, 1(4).
 
-Journal: Perfect Education Fairy, 1(4).
+- "Read the publication record" (publications/earnings-per-share-stock-price.md)
+- "View DOI record" (https://doi.org/10.56442/pef.v1i3.439)
 
-DOI: "10.56442/pef.v1i3.439" (https://doi.org/10.56442/pef.v1i3.439)
+### 3. The Implementation of Credit Scoring in Order to Analyze the Importance of Non-Performing Loans on Peer-to-Peer Lending towards Credit Distribution for Micro, Small and Medium Enterprises
 
-Overview
+Riwayati, H. E., Aviliani, & Prastika, F. Y. (2022).
 
-This paper examines the relationship between earnings per share, price-to-earnings ratio, stock price, and dividend policy.
+International Business and Accounting Research Journal, 6(2), 137–147.
 
-Keywords: Earnings per share · Price-to-earnings ratio · Stock price · Dividend policy
-
-### 3. The Implementation of Credit Scoring in Order to Analyze the Importance of Non-Performing Loans on Peer-to-Peer Lending towards Credit Distribution for MSMEs
-
-Authors: H. E. Riwayati, Aviliani, and Frida Yuniar Prastika
-
-Year: 2022
-
-Journal: International Business and Accounting Research Journal, 6(2), 112–121.
-
-Overview
-
-This study considers credit scoring in relation to non-performing loans and credit distribution through peer-to-peer lending, with a focus on financing for micro, small, and medium enterprises (MSMEs).
-
-Keywords: Credit scoring · Peer-to-peer lending · Non-performing loans · MSMEs · Credit risk
+- "Read the publication record" (publications/credit-scoring-p2p-lending-msmes.md)
+- "View journal article" (https://journal.stebilampung.ac.id/index.php/ibarj/article/viewFile/248/171)
+- "View GARUDA record" (https://garuda.kemdiktisaintek.go.id/documents/detail/3114579)
 
 ---
 
