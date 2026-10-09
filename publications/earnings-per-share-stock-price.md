@@ -3,9 +3,11 @@
 ## Bibliographic Information
 
 - Authors: Frida Yuniar Prastika and Muhammad Yusuf
-- Year: 2023
+- Year: 2025 (as cited by the publisher)
+- Issue label: Vol. 1 No. 4 (2023)
 - Journal: Perfect Education Fairy
 - Volume and issue: 1(4)
+- Pages: 140-152
 - DOI: [10.56442/pef.v1i3.439](https://doi.org/10.56442/pef.v1i3.439)
 - Publication record: [View DOI record](https://doi.org/10.56442/pef.v1i3.439)
 
@@ -22,7 +24,7 @@ This study examines earnings per share and price-earnings ratio in relation to s
 
 ## Citation
 
-Prastika, F. Y., & Yusuf, M. (2023). The Effect of Earning Per Share and Price Earning Ratio on Stock Price with Dividend Policy as an Intervening Variable. Perfect Education Fairy, 1(4). https://doi.org/10.56442/pef.v1i3.439
+Prastika, F. Y., & Yusuf, M. (2025). The Effect of Earning Per Share and Price Earning Ratio on Stock Price with Dividend Policy as an Intervening Variable. Perfect Education Fairy, 1(4), 140–152. https://doi.org/10.56442/pef.v1i3.439
 
 ---
 
