@@ -7,8 +7,8 @@
 - Journal: International Business and Accounting Research Journal
 - Volume and issue: 6(2)
 - Pages: 137–147
-- Article: "View journal PDF" (https://journal.stebilampung.ac.id/index.php/ibarj/article/viewFile/248/171)
-- Additional record: "GARUDA" (https://garuda.kemdiktisaintek.go.id/documents/detail/3114579)
+- Article: [View journal PDF](https://journal.stebilampung.ac.id/index.php/ibarj/article/viewFile/248/171)
+- Additional record: [GARUDA](https://garuda.kemdiktisaintek.go.id/documents/detail/3114579)
 
 ## Research Focus
 
