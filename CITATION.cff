@@ -3,12 +3,10 @@ message: "Please cite this repository using the metadata below."
 title: "Frida Yuniar Prastika - Research Publications"
 authors:
 
-- family-names: Prastika
-  given-names: Frida Yuniar
-  repository-code: "https://github.com/fridaayp/research-publications"
+- family-names: Prastika given-names: "Frida Yuniar" repository-code: "https://github.com/fridaayp/research-publications"
   keywords:
-- behavioral finance
-- corporate governance
-- managerial overconfidence
-- credit risk
-- emerging Asian markets
+- "behavioral finance"
+- "corporate governance"
+- "managerial overconfidence"
+- "credit risk"
+- "emerging Asian markets"
