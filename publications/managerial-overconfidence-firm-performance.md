@@ -7,8 +7,8 @@
 - Journal: International Journal of Social Science, Education, Communication and Economics
 - Volume and issue: 3(5)
 - Pages: 1437–1450
-- DOI: "10.54443/sj.v3i5.431" (https://doi.org/10.54443/sj.v3i5.431)
-- Publisher page: "View article" (https://sinomicsjournal.com/index.php/SJ/article/view/431)
+- DOI: [10.54443/sj.v3i5.431](https://doi.org/10.54443/sj.v3i5.431)
+- Publisher page: [View article](https://sinomicsjournal.com/index.php/SJ/article/view/431)
 
 ## Research Focus
 
