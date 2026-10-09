@@ -3,7 +3,8 @@ message: "Please cite this repository using the metadata below."
 title: "Frida Yuniar Prastika - Research Publications"
 authors:
 
-- family-names: Prastika given-names: "Frida Yuniar" 
+- family-names: Prastika 
+given-names: "Frida Yuniar" 
 repository-code: "https://github.com/fridaayp/research-publications"
 keywords:
 - "behavioral finance"
