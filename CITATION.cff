@@ -2,7 +2,6 @@ cff-version: 1.2.0
 message: "Please cite this repository."
 title: "Research Publications"
 authors:
-
-- family-names: "Prastika"
-  given-names: "Frida Yuniar"
+  - family-names: "Prastika"
+    given-names: "Frida Yuniar"
 repository-code: "https://github.com/fridaayp/research-publications"
