@@ -79,4 +79,4 @@ This repository serves as an index of my research work and academic interests. P
 
 ---
 
-### Research interests: behavioral finance, corporate governance, managerial decision-making, strategic risk-taking, and financial institutions in emerging markets.
+**Research interests:** behavioral finance, corporate governance, managerial decision-making, strategic risk-taking, and financial institutions in emerging markets.
