@@ -6,8 +6,8 @@
 - Year: 2023
 - Journal: Perfect Education Fairy
 - Volume and issue: 1(4)
-- DOI: "10.56442/pef.v1i3.439" (https://doi.org/10.56442/pef.v1i3.439)
-- Publication record: "View DOI record" (https://doi.org/10.56442/pef.v1i3.439)
+- DOI: [10.56442/pef.v1i3.439](https://doi.org/10.56442/pef.v1i3.439)
+- Publication record: [View DOI record](https://doi.org/10.56442/pef.v1i3.439)
 
 ## Research Focus
 
