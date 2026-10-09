@@ -1,77 +1,97 @@
-# Research Publications
+# Frida Yuniar Prastika | Research Portfolio
 
-This repository showcases my academic publications and research contributions in finance, corporate governance, credit risk, and business analytics.
+### Behavioral Finance · Corporate Governance · Managerial Decision-Making · Emerging Asian Markets
 
----
+Welcome to my academic research portfolio. This repository documents my scholarly publications and research interests across finance, corporate governance, credit risk, and business decision-making.
 
-## Author
-
-**Frida Yuniar Prastika, S.M., M.M.**
-
-Master of Management (Finance) - State University of Jakarta (2025)
-
-Research Interests:
-
-- Corporate Governance
-- Behavioral Finance
-- Financial Performance
+My research interests center on how managerial characteristics, governance mechanisms, and financial institutions shape organizational outcomes and access to finance in emerging markets.
 
 ---
 
-# Publications
+## Research Interests
 
-## 1. The Effect of Managerial Overconfidence on Firm Performance in Emerging Market Asia
+- Behavioral Finance: Managerial overconfidence and its implications for firm outcomes.
+- Corporate Governance: Governance mechanisms and managerial decision-making.
+- Strategic Risk-Taking: Executive characteristics, governance structures, and strategic choices.
+- Credit Risk & Financial Inclusion: Credit scoring, non-performing loans, peer-to-peer lending, and financing for MSMEs.
+- Emerging Asian Markets: Firm-level and institutional questions in the Asian context.
 
-**Journal:** International Journal of Social Science, Education, Communication, and Economics
+## Selected Publications
 
-**Publication Year:** 2024
+### 1. The Effect of Managerial Overconfidence on Firm Performance in Emerging Market Asia
 
-### Abstract
+Authors: Frida Yuniar Prastika, A. Warokka, and G. N. Ahmad
 
-This study examines the impact of managerial overconfidence on firm performance in emerging Asian markets and explores the role of corporate governance in influencing strategic decision-making and organizational outcomes.
+Year: 2024
 
-### Keywords
-- Managerial Overconfidence
-- Firm Performance
-- Corporate Governance
-- Emerging Markets
-- Strategic Risk Taking
+Journal: International Journal of Social Science, Education, Communication, and Economics, 3(5), 415–428.
+
+Overview
+
+This study examines the relationship between managerial overconfidence and firm performance in emerging Asian markets, with attention to corporate governance and strategic decision-making.
+
+Keywords: Managerial overconfidence · Firm performance · Corporate governance · Emerging markets · Strategic risk-taking
+
+### 2. The Effect of Earning Per Share and Price Earning Ratio on Stock Price with Dividend Policy as an Intervening Variable
+
+Authors: Frida Yuniar Prastika and M. Yusuf
+
+Year: 2023
+
+Journal: Perfect Education Fairy, 1(4).
+
+DOI: "10.56442/pef.v1i3.439" (https://doi.org/10.56442/pef.v1i3.439)
+
+Overview
+
+This paper examines the relationship between earnings per share, price-to-earnings ratio, stock price, and dividend policy.
+
+Keywords: Earnings per share · Price-to-earnings ratio · Stock price · Dividend policy
+
+### 3. The Implementation of Credit Scoring in Order to Analyze the Importance of Non-Performing Loans on Peer-to-Peer Lending towards Credit Distribution for MSMEs
+
+Authors: H. E. Riwayati, Aviliani, and Frida Yuniar Prastika
+
+Year: 2022
+
+Journal: International Business and Accounting Research Journal, 6(2), 112–121.
+
+Overview
+
+This study considers credit scoring in relation to non-performing loans and credit distribution through peer-to-peer lending, with a focus on financing for micro, small, and medium enterprises (MSMEs).
+
+Keywords: Credit scoring · Peer-to-peer lending · Non-performing loans · MSMEs · Credit risk
 
 ---
-## 2. The Implementation of Credit Scoring in Order to Analyze the Importance of Non-Performing Loans on Peer-to-Peer Lending towards Credit Distribution for MSMEs
 
-**Journal:** International Business and Accounting Research Journal
+## Research in Progress
 
-**Publication Year:** 2022
+### Managerial Overconfidence and Strategic Green Risk Allocation in Emerging Asia: The Guardrail Role of ESG Governance Architecture
 
-### Abstract
+Status: Proposed research direction — not a published paper.
 
-This study analyzes the role of credit scoring in evaluating loan quality and examines the relationship between non-performing loans and credit distribution within peer-to-peer lending platforms supporting MSMEs.
+This proposed research direction brings together managerial overconfidence, strategic risk allocation, and ESG governance architecture in emerging Asian markets. It reflects my developing interest in how governance structures may shape the relationship between executive characteristics and strategic decisions.
 
-### Keywords
-- Credit Scoring
-- Peer-to-Peer Lending
-- MSMEs
-- Non-Performing Loans
-- Credit Risk
+This title describes a proposed research direction, not a completed study or established findings.
 
-## Academic Profile
+## Academic Background
 
-### Education
+- Master's Degree in Financial Management — State University of Jakarta, 2022–2025 | GPA: 3.82/4.00
+- Bachelor's Degree in Financial Management — Perbanas Institute, 2019–2022 | GPA: 3.65/4.00
+- Vocational Degree in Agribusiness Management — IPB University, 2015–2018 | GPA: 3.61/4.00
 
-- Master of Management (Finance), State University of Jakarta (2025)
-- Bachelor of Management (Finance), Perbanas Institute (2022)
-- Diploma in Agribusiness Management, Bogor Agricultural University (2018)
+## Academic Links
 
-### Academic Achievements
+- Master's thesis: "UNJ Repository" (http://repository.unj.ac.id/53638/)
+- ORCID: "0009-0004-2254-9165" (https://orcid.org/0009-0004-2254-9165)
+- Research profile: "SciProfiles" (https://sciprofiles.com/profile/fridaayp)
+- Professional profile: "LinkedIn" (https://www.linkedin.com/in/fridaayp/)
+- Portfolio website: "fridaayp.github.io/fridaayp" (https://fridaayp.github.io/fridaayp/)
 
-- Exchange Program, Asia University Taiwan (2024)
-- MSIB Kampus Merdeka Participant (2022)
-- 1st Winner Essay Competition (2016)
+## About This Repository
+
+This repository serves as an index of my research work and academic interests. Publication metadata and article-specific claims should be checked against the publisher's version of record. Research ideas identified as proposed or in progress should not be interpreted as published findings.
 
 ---
 
-## Contact
-LinkedIn: linkedin.com/in/fridaayp |
-ORCID: 0009-0004-2254-9165 |
-GitHub: github.com/fridaayp
+### Research interests: behavioral finance, corporate governance, managerial decision-making, strategic risk-taking, and financial institutions in emerging markets.
