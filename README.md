@@ -76,9 +76,9 @@ This title describes a proposed research direction, not a completed study or est
 
 ## Academic Background
 
-- Master's Degree in Financial Management — State University of Jakarta, 2022–2025 | GPA: 3.82/4.00
-- Bachelor's Degree in Financial Management — Perbanas Institute, 2019–2022 | GPA: 3.65/4.00
-- Vocational Degree in Agribusiness Management — IPB University, 2015–2018 | GPA: 3.61/4.00
+- Master's Degree in Financial Management — State University of Jakarta, 2022–2025 
+- Bachelor's Degree in Financial Management — Perbanas Institute, 2019–2022 
+- Vocational Degree in Agribusiness Management — IPB University, 2015–2018 
 
 ## Academic Links
 
