@@ -24,9 +24,9 @@ Prastika, F. Y., Warokka, A., & Ahmad, G. N. (2024).
 
 International Journal of Social Science, Education, Communication and Economics, 3(5), 1437–1450.
 
-- "Read the publication record" (publications/managerial-overconfidence-firm-performance.md)
-- "View the publisher's article" (https://sinomicsjournal.com/index.php/SJ/article/view/431)
-- "DOI" (https://doi.org/10.54443/sj.v3i5.431)
+- [Read the publication record](publications/managerial-overconfidence-firm-performance.md)
+- [View the publisher's article](https://sinomicsjournal.com/index.php/SJ/article/view/431)
+- [DOI](https://doi.org/10.54443/sj.v3i5.431)
 
 ### 2. The Effect of Earning Per Share and Price Earning Ratio on Stock Price with Dividend Policy as an Intervening Variable
 
@@ -34,8 +34,8 @@ Prastika, F. Y., & Yusuf, M. (2023).
 
 Perfect Education Fairy, 1(4).
 
-- "Read the publication record" (publications/earnings-per-share-stock-price.md)
-- "View DOI record" (https://doi.org/10.56442/pef.v1i3.439)
+- [Read the publication record](publications/earnings-per-share-stock-price.md)
+- [View DOI record](https://doi.org/10.56442/pef.v1i3.439)
 
 ### 3. The Implementation of Credit Scoring in Order to Analyze the Importance of Non-Performing Loans on Peer-to-Peer Lending towards Credit Distribution for Micro, Small and Medium Enterprises
 
@@ -43,9 +43,9 @@ Riwayati, H. E., Aviliani, & Prastika, F. Y. (2022).
 
 International Business and Accounting Research Journal, 6(2), 137–147.
 
-- "Read the publication record" (publications/credit-scoring-p2p-lending-msmes.md)
-- "View journal article" (https://journal.stebilampung.ac.id/index.php/ibarj/article/viewFile/248/171)
-- "View GARUDA record" (https://garuda.kemdiktisaintek.go.id/documents/detail/3114579)
+- [Read the publication record](publications/credit-scoring-p2p-lending-msmes.md)
+- [View journal article](https://journal.stebilampung.ac.id/index.php/ibarj/article/viewFile/248/171)
+- [View GARUDA record](https://garuda.kemdiktisaintek.go.id/documents/detail/3114579)
 
 ---
 
@@ -67,11 +67,11 @@ This title describes a proposed research direction, not a completed study or est
 
 ## Academic Links
 
-- Master's thesis: "UNJ Repository" (http://repository.unj.ac.id/53638/)
-- ORCID: "0009-0004-2254-9165" (https://orcid.org/0009-0004-2254-9165)
-- Research profile: "SciProfiles" (https://sciprofiles.com/profile/fridaayp)
-- Professional profile: "LinkedIn" (https://www.linkedin.com/in/fridaayp/)
-- Portfolio website: "fridaayp.github.io/fridaayp" (https://fridaayp.github.io/fridaayp/)
+- Master's thesis: [UNJ Repository](http://repository.unj.ac.id/53638/)
+- ORCID: [0009-0004-2254-9165](https://orcid.org/0009-0004-2254-9165)
+- Research profile: [SciProfiles](https://sciprofiles.com/profile/fridaayp)
+- Professional profile: [LinkedIn](https://www.linkedin.com/in/fridaayp/)
+- Portfolio website: [fridaayp.github.io/fridaayp](https://fridaayp.github.io/fridaayp/)
 
 ## About This Repository
 
