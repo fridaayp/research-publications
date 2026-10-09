@@ -30,7 +30,7 @@ International Journal of Social Science, Education, Communication and Economics,
 
 ### 2. The Effect of Earning Per Share and Price Earning Ratio on Stock Price with Dividend Policy as an Intervening Variable
 
-Prastika, F. Y., & Yusuf, M. (2023).
+Prastika, F. Y., & Yusuf, M. (2025; issue label: Vol. 1 No. 4 (2023)).
 
 Perfect Education Fairy, 1(4).
 
